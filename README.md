@@ -1,0 +1,2 @@
+# CONSTRUCTOR-FUNCTION
+In Solidity, the Constructor function can only be made once, and it uses only once in the program while deploying the program. The CONSTRUCTOR basically uses only for state variables in the program. The deployer can assign the value to the Constructor function. while in Javascript, we used to make constructor functions even at the start of the program, and we can make that many times.
